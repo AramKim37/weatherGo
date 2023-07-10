@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.icon {
+  width: 150px;
+  height: 150px;
+}
